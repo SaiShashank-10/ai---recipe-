@@ -1,6 +1,6 @@
 # 🍲 RecipeAI — AI-Powered Recipe Submission Platform
 
-[🌐 Live Demo](https://silver-sherbet-4796ee.netlify.app)
+[🌐 Live Demo](https://ai-recipe-app-10.netlify.app/)
 
 RecipeAI is an intelligent and user-friendly platform that allows users to submit their own recipes, receive a professionally designed recipe card powered by AI, and have it delivered directly to their email in PDF format. The platform combines sleek UI, smart automation, and personalized experience — perfect for cooking enthusiasts, chefs, and food bloggers.
 
