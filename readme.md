@@ -77,6 +77,7 @@ src/
 ## 📸 Screenshots
 
 > _You can add screenshots or screen recordings here to showcase the UI._
+> <img src="./Screenshot 2025-07-23 225431.png" alt="Opening Page" width="600" />
 
 ---
 
