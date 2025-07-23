@@ -78,6 +78,12 @@ src/
 
 > _You can add screenshots or screen recordings here to showcase the UI._
 > <img src="./Screenshot 2025-07-23 225431.png" alt="Opening Page" width="600" />
+> <img src="./Login Page.png" alt="Login Page" width="600" />
+> <img src="./Ai Recipe page.png" alt="AI Recipe Generator Page" width="600" />
+> <img src="./Profile Page.png" alt="Profile Page" width="600" />
+> <img src="./Analytics Page.png" alt="Analytics Page" width="600" />
+> <img src="./Dashboard.png" alt="Dashboard Page" width="600" />
+
 
 ---
 
@@ -92,8 +98,8 @@ src/
 
 ## 🙋‍♂️ Author
 
-**Sai Shashank (Shash HB)**  
-📧 vsaishashank10@gmail.com  
+**Sai Shashank**  
+📧 saishashank1006@gmail.com  
 🧠 [Portfolio]() | 🐙 [GitHub]() | 💼 [LinkedIn]()
 
 ---
